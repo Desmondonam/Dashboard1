@@ -1,1 +1,1 @@
-"Dashboard1" 
+This is a streamlit dashboard just to practice on the coding aspects of creation of the dashboard that is needed for any organisation. This is very basic and is mainly used so tha t the code here can be reused for other purposes of coding. This is a code that is to be developed in many instances so that there is sufficient knowledge for any of the visualizations to take place and at ease. 
